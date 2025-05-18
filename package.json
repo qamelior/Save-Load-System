@@ -1,0 +1,11 @@
+{
+  "name": "com.qamelior.saveloadsystem",
+  "version": "1.0.0",
+  "displayName": "Save Load System",
+  "description": "Framework for building save-load system in your project",
+  "unity": "2022.3",
+  "author": {
+    "name": "Nikita Veselov",
+    "email": "nick.veselov.gamedev@gmail.com"
+  }
+}
