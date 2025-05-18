@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using Zenject;
 
-namespace Runtime.GameSession
+namespace SaveLoadSystem.GameSession
 {
     [CreateAssetMenu(menuName = "Save System/Game Session Settings", fileName = "(S) Game Sessions")]
     public class GameSessionSettings : ScriptableObjectInstaller<SaveSystemSettings>

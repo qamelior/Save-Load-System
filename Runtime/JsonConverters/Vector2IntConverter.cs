@@ -3,7 +3,7 @@ using Unity.Plastic.Newtonsoft.Json;
 using Unity.Plastic.Newtonsoft.Json.Linq;
 using UnityEngine;
 
-namespace Runtime.JsonConverters
+namespace SaveLoadSystem.JsonConverters
 {
     public class Vector2IntConverter : JsonConverter
     {

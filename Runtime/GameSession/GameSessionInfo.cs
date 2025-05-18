@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using Runtime.FileProcessing;
+using SaveLoadSystem.FileProcessing;
 using UnityEngine;
 
-namespace Runtime.GameSession
+namespace SaveLoadSystem.GameSession
 {
     public class GameSessionInfo
     {

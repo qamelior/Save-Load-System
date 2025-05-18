@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Runtime.FileProcessing
+namespace SaveLoadSystem.FileProcessing
 {
     [Serializable]
     public class SaveDataFile

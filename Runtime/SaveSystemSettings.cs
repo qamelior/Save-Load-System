@@ -5,7 +5,7 @@ using Zenject;
 #if UNITY_EDITOR
 #endif
 
-namespace Runtime
+namespace SaveLoadSystem
 {
     [CreateAssetMenu(menuName = "Save System/Save System Settings", fileName = "(S) Save System")]
     public class SaveSystemSettings : ScriptableObjectInstaller<SaveSystemSettings>

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Runtime
+namespace SaveLoadSystem
 {
     public abstract class SaveEntity
     {

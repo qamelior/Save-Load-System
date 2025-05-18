@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace Runtime.FileProcessing
+namespace SaveLoadSystem.FileProcessing
 {
     [Serializable]
     public class ScreenshotData

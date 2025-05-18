@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Runtime
+namespace SaveLoadSystem
 {
     [Serializable]
     public class SaveDataContainer

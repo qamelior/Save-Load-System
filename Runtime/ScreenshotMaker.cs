@@ -1,8 +1,8 @@
 ﻿using System;
-using Runtime.FileProcessing;
+using SaveLoadSystem.FileProcessing;
 using UnityEngine;
 
-namespace Runtime
+namespace SaveLoadSystem
 {
     public class ScreenshotMaker
     {
